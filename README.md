@@ -1,7 +1,15 @@
 ## 💜 Hello everybody, I'm <strong>{William Nahirnei Lopes}!</strong>
 
-> Actualy i'm a full-stack developer, in this moment i'm development with PHP, Laravel, Vue.js, Node.js, Nest.js and MySQL.
-I love development, and every day i try know a little more of tecnologi  and lern new skill. In last months i'm learn abaut react and react-native.
+> Actualy i'm a full-stack developer, in this moment i'm work with 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+.
+I love development, and every day i try know a little more of tecnologi  and lern new skill. In last months i'm learn abaut react and react-native.</br>
 🔭 Now in september of 2022 i working in a app to remember people of consume your contraceptive pill, in correctly hour. In this project i'm using a react-native.
 
 ----
