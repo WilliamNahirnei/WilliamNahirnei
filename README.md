@@ -53,9 +53,8 @@ I love development, and every day i try know a little more of tecnologi  and ler
 </a>
 
 <p align="left">
-  <a href="william.nahirnei@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=william.nahirnei@gmail.com"     />
-   </a>
+  [![Gmail Badge](https://img.shields.io/badge/-william.nahirnei@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:william.nahirnei@gmail.com)](mailto:william.nahirnei@gmail.com)
+
 
   <a href="https://www.linkedin.com/in/william-nahirnei-lopes-5808a41a4/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-     nahirnei-lopes-5808a41a4/" />
