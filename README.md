@@ -10,7 +10,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 .
 I love development, and every day i try know a little more of tecnologi  and lern new skill. In last months i'm learn abaut react and react-native.</br>
-🔭 Now in september of 2022 i working in a app to remember people of consume your contraceptive pill, in correctly hour. In this project i'm using a react-native.
+🔭 Now in september of 2022 i working in a app to remember people of consume your contraceptive pill, in correctly hour. In this project i'm using https://img.shields.io/badge/React_Native-20232A?flat&logo=react&logoColor=61DAFB.
 
 ----
 
@@ -42,7 +42,7 @@ I love development, and every day i try know a little more of tecnologi  and ler
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ About my GitHub
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamNahirnei&theme=dracula&hide_langs_below=1" />
@@ -53,14 +53,16 @@ I love development, and every day i try know a little more of tecnologi  and ler
 </a>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=william.nahirnei@gmail.com" /></a>
+  <a href="william.nahirnei@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=william.nahirnei@gmail.com"     />
+   </a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-nahirnei-lopes-5808a41a4/" /></a>
+  <a href="https://www.linkedin.com/in/william-nahirnei-lopes-5808a41a4/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-     nahirnei-lopes-5808a41a4/" />
+  </a>
 
   <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/>   </a>
 
 </p>  
 <br>
