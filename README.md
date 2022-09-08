@@ -1,6 +1,6 @@
 ## 💜 Hello everybody, I'm <strong>{William Nahirnei Lopes}!</strong>
 
-> Actualy i'm a full-stack developer, in this moment i'm work with 
+- 💼 &nbsp; Actualy i'm a full-stack developer, in this moment i'm work with 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) 
@@ -10,7 +10,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 .
 I love development, and every day i try know a little more of tecnologi  and lern new skill. In last months i'm learn abaut react and react-native.</br>
-🔭 Now in september of 2022 i working in a personal app to remember people of consume your contraceptive pill, in correctly hour. In this project i'm using ![React](https://img.shields.io/badge/React_Native-20232A?flat&logo=react&logoColor=61DAFB).
+- 🔭 Now in september of 2022 i working in a personal app to remember people of consume your contraceptive pill, in correctly hour. In this project i'm using ![React](https://img.shields.io/badge/React_Native-20232A?flat&logo=react&logoColor=61DAFB).
+- 🎓 &nbsp; Bachelor in **COMPUTER SCIENCE** in <a href="https://www3.unicentro.br/">UNICENTRO</a>.
 
 ----
 
@@ -55,3 +56,6 @@ I love development, and every day i try know a little more of tecnologi  and ler
 <h3> :earth_americas: &nbsp;Contact: </h3> 
 
 [![Linkedin: William Nahirnei Lopes](https://img.shields.io/badge/-William⠀Nahirnei⠀Lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-nahirnei-lopes-5808a41a4/)](https://www.linkedin.com/in/william-nahirnei-lopes-5808a41a4/) 
+[![Gmail Badge](https://img.shields.io/badge/-william.nahirnei@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&labelColor=FF0000&link=mailto:william.nahirnei@gmail.com)](mailto:william.nahirnei@gmail.com) 
+![WhatsApp](https://img.shields.io/badge/+55(42)988832772-25D366?style=flat&logo=whatsapp&logoColor=white) 
+
