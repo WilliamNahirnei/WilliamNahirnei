@@ -44,11 +44,11 @@ I love development, and every day i try know a little more of tecnologi  and ler
 
 ## ⭐ About my GitHub
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/WilliamNahirnei">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamNahirnei&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/WilliamNahirnei">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamNahirnei&show_icons=true&theme=dracula&line_height=27" alt="**William Nahirnei Lopes** github stats"/>
 </a>
 
