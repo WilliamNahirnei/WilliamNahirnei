@@ -10,7 +10,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 .
 I love development, and every day i try know a little more of tecnologi  and lern new skill. In last months i'm learn abaut react and react-native.</br>
-- 🔭 Now in september of 2022 i working in a personal app to remember people of consume your contraceptive pill, in correctly hour. In this project i'm using ![React](https://img.shields.io/badge/React_Native-20232A?flat&logo=react&logoColor=61DAFB).
+- 🔭 Now in october of 2022 i working in a personal app to remember people of consume your contraceptive pill, in correctly hour. In this project i'm using ![React](https://img.shields.io/badge/React_Native-20232A?flat&logo=react&logoColor=61DAFB).
 - 🎓 &nbsp; Bachelor in **COMPUTER SCIENCE** in <a href="https://www3.unicentro.br/">UNICENTRO</a>.
 
 ----
