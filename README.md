@@ -2,13 +2,14 @@
 
 - 💼 &nbsp; Actualy i'm a full-stack developer, in this moment i'm work with 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-<!--![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)-->
-<!--![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)-->
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) 
-<!--![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)-->
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 .
+<!--![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)-->
+<!--![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)-->
+<!--![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)-->
+
 I love development, and every day i try know a little more of tecnologi  and lern new skill. In last months i'm learn abaut react and react-native.</br>
 - 🔭 Now in october of 2022 i working in a personal app to remember people of consume your contraceptive pill, in correctly hour. In this project i'm using ![React](https://img.shields.io/badge/React_Native-20232A?flat&logo=react&logoColor=61DAFB).
 - 🎓 &nbsp; Bachelor in **COMPUTER SCIENCE** in <a href="https://www3.unicentro.br/">UNICENTRO</a>.
